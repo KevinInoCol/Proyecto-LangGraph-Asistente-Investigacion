@@ -1,0 +1,19 @@
+streamlit==1.35.0
+
+# Ecosistema LangChain
+langchain
+langgraph
+langgraph-supervisor
+langchain-google-genai
+langchain-openai
+langchain-chroma
+langchain-community
+
+pypdf==3.17.4
+
+# Dejar que pip resuelva la compatibilidad
+supabase
+httpx
+
+python-dotenv==1.0.1
+tiktoken==0.7.0
